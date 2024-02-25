@@ -1,6 +1,5 @@
 {
-  "homepage": "https://leodk293.github.io/anime",
-  "name": "anime-database",
+  "homepage": "https://leodk293.github.io/anime-data-base",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
